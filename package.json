@@ -1,0 +1,18 @@
+{
+  "name": "com.nomnom.chunk-utilities",
+  "version": "1.0.0",
+  "displayName": "Chunk Utilities",
+  "description": "Helpful functions and utilities for managing chunk structures.",
+  "unity": "2020.3",
+  "unityRelease": "20f1",
+  "licensesUrl": "https://choosealicense.com/licenses/mit/",
+  "dependencies": {},
+  "devDependencies": {},
+  "samples": [],
+  "author": {
+    "name": "Andrew Burke",
+    "email": "",
+    "url": "https://github.com/nomnomab"
+  },
+  "type": "library"
+}

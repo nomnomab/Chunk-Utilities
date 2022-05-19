@@ -1,0 +1,18 @@
+{
+    "name": "com.nomnom.chunk-utilities.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1986cf65974eff841aad53e72c9154f9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
